@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @vartruexuan
 - 👀 I’m interested in PHP/Golang
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me? guozhaoxuanx@163.com
+- 📫 How to reach me? guozhaoxuanx@gmail.com
 
 <!---
 /vartruexuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
