@@ -1,10 +1,13 @@
+
 - 👋 Hi, I’m @vartruexuan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in PHP/Golang
+- 🌱 I’m currently learning Golang
+- 📫 How to reach me? guozhaoxuanx@163.com
 
 <!---
-vartruexuan/vartruexuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/vartruexuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+| <a href="https://github.com/vartruexuan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vartruexuan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deeka Wong's github stats" /></a> | <a href="https://github.com/vartruexuan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartruexuan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
