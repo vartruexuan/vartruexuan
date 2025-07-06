@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @guozhaoxuan
-- 👀 I’m interested in PHP/Golang
-- 📫 How to reach me? guozhaoxuanx@gmail.com
+- 🌟 Hi, I’m @guozhaoxuan  
+- 💡 I’m interested in PHP/Golang  
+- ✉️ How to reach me? guozhaoxuanx@gmail.com
 
 | <a href="https://github.com/vartruexuan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vartruexuan&theme=tokyonight&show_icons=true" alt="vartruexuan's github stats" /></a> | <a href="https://github.com/vartruexuan"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartruexuan&langs_count=8&layout=compact&theme=cobalt" alt="vartruexuan's github stats" /></a> |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
